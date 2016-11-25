@@ -1,2 +1,2 @@
 # Hello-world
-How to create hello world repository
+This is the copy of read me from master branch
